@@ -1,29 +1,85 @@
 <h1 align="center">Hi 👋, I'm AKKAR Marwa</h1>
 
-<h3 align="center">
-Computer Engineering Student | Full-Stack Developer | Machine Learning Enthusiast
-</h3>
+<h3 align="center">Computer Engineering Student | Full-Stack Developer</h3>
 
-- 🎓 Computer Engineering Student passionate about software development and data-driven solutions
+<p align="center">
+  Passionate about building modern web applications and continuously learning new technologies.
+</p>
 
-- 💻 Building modern web applications with **React, Node.js, and JavaScript**
+<br>
 
-- 🤖 Exploring **Machine Learning, Artificial Intelligence, and Data Analysis**
+* 🎓 I'm currently studying **Computer Engineering**
 
-- 📊 Working with **real-world datasets using SQL, MySQL, and Oracle Database**
+* 💻 Building web applications using **React, Node.js, JavaScript, HTML, and CSS**
 
-- 🌱 Currently learning **Advanced Full-Stack Development & Machine Learning**
+* 🌱 Currently improving my skills in **Full-Stack Development**
 
-- 💬 Ask me about **React, Node.js, JavaScript, SQL, and Python**
+* 🔧 Interested in creating scalable and user-friendly applications
 
-- 📫 Reach me at **marouaakkar11@gmail.com**
+* 💬 Ask me about **React, Node.js, JavaScript, SQL, and Python**
 
-<h3 align="left">🚀 Connect with me:</h3>
+* 📫 Reach me at **[marouaakkar11@gmail.com](mailto:marouaakkar11@gmail.com)**
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">⚡ Tech Stack:</h3>
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+</p>
